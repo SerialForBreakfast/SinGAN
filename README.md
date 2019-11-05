@@ -42,7 +42,7 @@ python random_samples.py --input_name <training_image_file_name> --mode random_s
 
 pay attention: for using the full model, specify the generation start scale to be 0, to start the generation from the second scale, specify it to be 1, and so on. 
 
-###  Random samples of arbitrery sizes
+###  Random samples of arbitrary sizes
 To generate random samples of arbitrery sizes, please first train SinGAN model for the desire image (as described above), then run 
 
 ```
